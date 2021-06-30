@@ -1,0 +1,4 @@
+***flex(justify-content-end) - ajuda no alinhamento. Ele é inserido dentro do CONTAINER para alinhar o que está dentro dele.Ele só tem efeito 
+na regra "pai e filho";
+
+***position(fixed-top) - deixa a navbar fixa durante o scroll do usuário;
